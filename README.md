@@ -1,3 +1,5 @@
+Sellier JM. On a quantum inspired approach to train machine learning models. Applied AI Letters. 2023 Dec;4(4):e89.
+
 Cerezo et al., “Cost function-dependent barren plateaus in shallow parametrized quantum circuits,” Nat. Commun. (2021).
 
 McClean et al., “Barren plateaus in quantum neural network training landscapes,” Nat. Commun. (2018).
