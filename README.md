@@ -20,6 +20,8 @@ Variational Quantum Algorithms (VQAs) represent a cornerstone of near-term quant
 Reference
 
 
+Sellier, Jean Michel, and Alexandre Martini. "On Training Spiking Neural Networks by Means of a Novel Quantum Inspired Machine Learning Method." Applied AI Letters 6.2 (2025): e114.
+
 Sellier JM. On a quantum inspired approach to train machine learning models. Applied AI Letters. 2023 Dec;4(4):e89.
 
 Cerezo et al., “Cost function-dependent barren plateaus in shallow parametrized quantum circuits,” Nat. Commun. (2021).
