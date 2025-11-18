@@ -12,15 +12,6 @@ Variational Quantum Algorithms (VQAs) represent a cornerstone of near-term quant
 
 
 
-
-
-
-
-
-
-
-
-
 Reference
 
 
@@ -35,5 +26,17 @@ McClean et al., “Barren plateaus in quantum neural network training landscapes
 Holmes et al., “Connecting expressibility to trainability in quantum machine learning,” PRL (2022).
 
 Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv preprint arXiv:2402.15879 (2024).
+
+
+Telecommunication Applications Reference
+
+ Abraham, H., et al, “Qiskit: An Open-Source Framework for Quantum
+Computing (Version 0.7.2). Zenodo.,” 2019.
+
+ 
+ A. S. Cacciapuoti, et al, “When Entanglement Meets Classical Communications: Quantum Teleportation for the Quantum Internet,” IEEE
+Trans. Commun., vol. 68, no. 6, pp. 3808-3833, June 2020.
+
+
 
 
