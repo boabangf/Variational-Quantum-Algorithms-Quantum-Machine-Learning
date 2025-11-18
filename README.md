@@ -30,6 +30,8 @@ Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv pre
 
 **Telecommunication Applications Reference**
 
+**pip install Qiskit**
+
  Abraham, H., et al, “Qiskit: An Open-Source Framework for Quantum Computing (Version 0.7.2). Zenodo.,” 2019.
 
 Silvirianti and G. Kaddoum, "Quantum Adaptive Learning for Coverage Optimization in LEO Satellite Network," ICC 2025 - IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 2382-2387
