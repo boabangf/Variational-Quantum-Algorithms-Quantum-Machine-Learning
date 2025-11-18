@@ -39,6 +39,10 @@ Trans. Commun., vol. 68, no. 6, pp. 3808-3833, June 2020.
 
 A. A. Okine, Silvirianti and G. Kaddoum, "Quantum Machine Learning for Multi-Robot-Assisted Tactical Augmented Reality," in IEEE Internet of Things Magazine, vol. 8, no. 2, pp. 46-53, March 2025,
 
+S. Abbas, A. Sultana and G. Kaddoum, "Quantum-Safe Blockchain in Hyperledger Fabric," in IEEE Networking Letters, vol. 7, no. 1, pp. 61-65, March 2025, doi: 10.1109/LNET.2024.3522966
+
+
+
 
 
 
