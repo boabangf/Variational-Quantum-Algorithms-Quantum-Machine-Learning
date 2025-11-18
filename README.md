@@ -28,7 +28,7 @@ Holmes et al., “Connecting expressibility to trainability in quantum machine l
 Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv preprint arXiv:2402.15879 (2024).
 
 
-Telecommunication Applications Reference
+**Telecommunication Applications Reference**
 
  Abraham, H., et al, “Qiskit: An Open-Source Framework for Quantum
 Computing (Version 0.7.2). Zenodo.,” 2019.
