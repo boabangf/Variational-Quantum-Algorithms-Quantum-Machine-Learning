@@ -36,6 +36,8 @@ Silvirianti and G. Kaddoum, "Quantum Adaptive Learning for Coverage Optimization
  
 A. A. Okine, Silvirianti and G. Kaddoum, "Quantum Machine Learning for Multi-Robot-Assisted Tactical Augmented Reality," in IEEE Internet of Things Magazine, vol. 8, no. 2, pp. 46-53, March 2025,
 
+Van Huynh, Nguyen, et al. "Dynamic Spectrum Access for Ambient Backscatter Communication-assisted D2D Systems with Quantum Reinforcement Learning." arXiv preprint arXiv:2410.17971 (2024).
+
 
 
 
