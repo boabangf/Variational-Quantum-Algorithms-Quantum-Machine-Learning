@@ -41,6 +41,8 @@ A. A. Okine, Silvirianti and G. Kaddoum, "Quantum Machine Learning for Multi-Rob
 
 S. Abbas, A. Sultana and G. Kaddoum, "Quantum-Safe Blockchain in Hyperledger Fabric," in IEEE Networking Letters, vol. 7, no. 1, pp. 61-65, March 2025, doi: 10.1109/LNET.2024.3522966
 
+Jaiswal, Ankita, et al. "Quantum learning-enabled green communication for next-generation wireless systems." IEEE Transactions on Green Communications and Networking 5.3 (2021): 1015-1028.
+
 
 
 
