@@ -37,6 +37,8 @@ Computing (Version 0.7.2). Zenodo.,” 2019.
  A. S. Cacciapuoti, et al, “When Entanglement Meets Classical Communications: Quantum Teleportation for the Quantum Internet,” IEEE
 Trans. Commun., vol. 68, no. 6, pp. 3808-3833, June 2020.
 
+A. A. Okine, Silvirianti and G. Kaddoum, "Quantum Machine Learning for Multi-Robot-Assisted Tactical Augmented Reality," in IEEE Internet of Things Magazine, vol. 8, no. 2, pp. 46-53, March 2025,
+
 
 
 
