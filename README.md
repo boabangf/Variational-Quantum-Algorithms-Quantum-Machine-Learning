@@ -2,8 +2,6 @@
 Overleaf View Mode of paper: https://www.overleaf.com/read/xgghcyzgbrbv#368c5b
 
 
-Under Construction: https://colab.research.google.com/drive/11lV11yUOLqCUGm8hBxqn71f18iyQ8NmY?usp=sharing
-
 
 ABSTRACT
 
@@ -35,13 +33,7 @@ Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv pre
 
 **pip install Qiskit**
 
- Abraham, H., et al, “Qiskit: An Open-Source Framework for Quantum Computing (Version 0.7.2). Zenodo.,” 2019.
 
-Silvirianti and G. Kaddoum, "Quantum Adaptive Learning for Coverage Optimization in LEO Satellite Network," ICC 2025 - IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 2382-2387
- 
-A. A. Okine, Silvirianti and G. Kaddoum, "Quantum Machine Learning for Multi-Robot-Assisted Tactical Augmented Reality," in IEEE Internet of Things Magazine, vol. 8, no. 2, pp. 46-53, March 2025,
-
-Van Huynh, Nguyen, et al. "Dynamic Spectrum Access for Ambient Backscatter Communication-assisted D2D Systems with Quantum Reinforcement Learning." arXiv preprint arXiv:2410.17971 (2024).
 
 
 
