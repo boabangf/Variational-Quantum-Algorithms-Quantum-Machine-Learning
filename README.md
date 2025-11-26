@@ -30,6 +30,8 @@ Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv pre
 
 Du, Yuxuan, et al. "Quantum machine learning: A hands-on tutorial for machine learning practitioners and researchers." arXiv preprint arXiv:2502.01146 (2025).
 
+Chen, Samuel Yen-Chi et al. “Variational Quantum Circuits for Deep Reinforcement Learning.” IEEE Access 8 (2019): 141007-141024.
+
 
 **Telecommunication Applications Reference**
 
