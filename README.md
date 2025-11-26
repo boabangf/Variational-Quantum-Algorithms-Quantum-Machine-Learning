@@ -6,6 +6,8 @@ PQC-1 Encoding (First-Order / Linear Encoding)-regularized least square
 
 PQC-3 Encoding (Third-Order / Higher-Order Nonlinear Encoding)-least square 
 
+PQC-1 warm start →  PQC-3 expressive refinement
+
 
 
 
