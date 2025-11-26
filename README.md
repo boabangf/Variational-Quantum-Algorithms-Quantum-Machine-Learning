@@ -24,7 +24,140 @@ Barren plateaus (quantum)
 
 Vanishing gradients (deep learning)
 
+Parameter Scaling in PQC-1 and PQC-3
 
+The total number of trainable parameters in the variational circuit is:
+
+	
+∣
+𝜃
+P
+Q
+C
+∣
+=
+3
+𝑄
+(
+𝐿
++
+1
+)
++
+𝑄
+ 
+𝑛
+enc
+ 
+𝐿
++
+3
+		
+(18)
+∣θ
+PQC
+	​
+
+∣=3Q(L+1)+Qn
+enc
+	​
+
+L+3
+(18)
+
+where:
+
+𝑄
+Q = number of qubits
+
+𝐿
+L = number of variational layers
+
+𝑛
+enc
+n
+enc
+	​
+
+ = encoding order
+
+𝑛
+enc
+=
+1
+n
+enc
+	​
+
+=1 → PQC-1 (linear encoding)
+
+𝑛
+enc
+=
+3
+n
+enc
+	​
+
+=3 → PQC-3 (cubic encoding)
+
+The terms correspond to:
+
+3
+𝑄
+(
+𝐿
++
+1
+)
+3Q(L+1) → variational rotation parameters
+
+𝑄
+ 
+𝑛
+enc
+ 
+𝐿
+Qn
+enc
+	​
+
+L → data-encoding parameters
+
+3
+3 → output measurement/readout parameters
+
+Encoding-Specific Parameter Growth
+Encoding	
+𝑛
+enc
+n
+enc
+	​
+
+	Data parameters	Total scaling
+PQC-1	1	
+𝑄
+𝐿
+QL	
+𝑂
+(
+𝑄
+𝐿
+)
+O(QL)
+PQC-3	3	
+3
+𝑄
+𝐿
+3QL	
+𝑂
+(
+3
+𝑄
+𝐿
+)
+O(3QL)
 
 ABSTRACT
 
