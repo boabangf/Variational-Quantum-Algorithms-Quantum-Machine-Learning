@@ -28,6 +28,8 @@ Holmes et al., “Connecting expressibility to trainability in quantum machine l
 
 Stęchły, Michał. "Introduction to variational quantum algorithms." arXiv preprint arXiv:2402.15879 (2024).
 
+Du, Yuxuan, et al. "Quantum machine learning: A hands-on tutorial for machine learning practitioners and researchers." arXiv preprint arXiv:2502.01146 (2025).
+
 
 **Telecommunication Applications Reference**
 
