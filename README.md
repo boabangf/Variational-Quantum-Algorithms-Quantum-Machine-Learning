@@ -8,6 +8,21 @@ PQC-3 Encoding (Third-Order / Higher-Order Nonlinear Encoding)-least square
 
 PQC-1 warm start →  PQC-3 expressive refinement
 
+Your Quantum Pipeline
+
+Train PQC-1 with regularized LS (convex)
+
+Obtain stable parameter basin
+
+Promote to PQC-3 (cubic interactions)
+
+Fine-tune with full nonlinear expressivity
+
+This avoids:
+
+Barren plateaus (quantum)
+
+Vanishing gradients (deep learning)
 
 
 
