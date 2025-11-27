@@ -8,7 +8,7 @@ PQC-3 Encoding (Third-Order / Higher-Order Nonlinear Encoding)-least square
 
 PQC-1 warm start →  PQC-3 expressive refinement
 
-**Your Quantum Pipeline**
+**Quantum Pipeline**
 
 Train PQC-1 with regularized LS (convex)
 
