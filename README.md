@@ -41,7 +41,9 @@ Variational Quantum Algorithms (VQAs) represent a cornerstone of near-term quant
 
 
 Reference
+Puig, Ricard, et al. "Variational quantum simulation: a case study for understanding warm starts." PRX Quantum 6.1 (2025): 010317.
 
+Skolik, Andrea, et al. "Layerwise learning for quantum neural networks." Quantum Machine Intelligence 3.1 (2021): 5.
 
 Sellier, Jean Michel, and Alexandre Martini. "On Training Spiking Neural Networks by Means of a Novel Quantum Inspired Machine Learning Method." Applied AI Letters 6.2 (2025): e114.
 
