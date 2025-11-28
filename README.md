@@ -1,6 +1,7 @@
 
 Overleaf View Mode of paper: https://www.overleaf.com/read/xgghcyzgbrbv#368c5b
 
+Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized least squares." Quantum 7 (2023): 988.
 
 Under construction: https://colab.research.google.com/drive/1eAFJnlj84ypAcmPcmxo8pQa3J_GioeVI?usp=sharing
 
