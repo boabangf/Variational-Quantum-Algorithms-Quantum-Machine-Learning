@@ -13,7 +13,7 @@ PQC-3 + surrogate + encoding +  warm start →  PQC-3 expressive refinement
 
 **Quantum Pipeline**
 
-Train PQC-1 with regularized LS (convex)
+Train PQC-3 surrogate with regularized LS (convex)
 
 Obtain stable parameter basin
 
