@@ -5,11 +5,11 @@ Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized
 
 Under construction: https://colab.research.google.com/drive/1eAFJnlj84ypAcmPcmxo8pQa3J_GioeVI?usp=sharing
 
-PQC-3 Surrogate Encoding (First-Order / Linear Encoding)-regularized least square
+DataSets
 
-PQC-3 Encoding (Third-Order / Higher-Order Nonlinear Encoding)-least square 
+load_wine
 
-PQC-3 + surrogate + encoding +  warm start →  PQC-3 expressive refinement
+Mnist
 
 **Quantum Pipeline**
 
