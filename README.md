@@ -11,6 +11,8 @@ load_wine
 
 Mnist
 
+OptdigitsData
+
 **Quantum Pipeline**
 
 Train PQC-3 surrogate with regularized LS (convex)
