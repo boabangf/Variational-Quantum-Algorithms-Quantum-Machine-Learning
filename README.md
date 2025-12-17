@@ -3,6 +3,8 @@ Overleaf View Mode of paper: https://www.overleaf.com/read/xgghcyzgbrbv#368c5b
 
 Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized least squares." Quantum 7 (2023): 988.
 
+Du, Yuxuan, et al. "A grover-search based quantum learning scheme for classification." new Journal of Physics 23.2 (2021): 023020.
+
 Under construction: https://colab.research.google.com/drive/1eAFJnlj84ypAcmPcmxo8pQa3J_GioeVI?usp=sharing
 
 DataSets
