@@ -5,6 +5,14 @@ Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized
 
 Du, Yuxuan, et al. "A grover-search based quantum learning scheme for classification." new Journal of Physics 23.2 (2021): 023020.
 
+
+QIML-based intrusion / anomaly detection for PQC transitions
+
+Quantum-inspired kernel learning for malware / traffic classification
+
+QIML for adaptive PQC parameter and policy selection
+
+
 Under construction: https://colab.research.google.com/drive/1eAFJnlj84ypAcmPcmxo8pQa3J_GioeVI?usp=sharing
 
 DataSets
