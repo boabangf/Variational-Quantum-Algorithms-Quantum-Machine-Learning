@@ -5,6 +5,9 @@ Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized
 
 Du, Yuxuan, et al. "A grover-search based quantum learning scheme for classification." new Journal of Physics 23.2 (2021): 023020.
 
+Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
+
+
 
 QIML-based intrusion / anomaly detection for PQC transitions
 
