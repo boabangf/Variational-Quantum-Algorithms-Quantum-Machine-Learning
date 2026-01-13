@@ -8,17 +8,11 @@ Du, Yuxuan, et al. "A grover-search based quantum learning scheme for classifica
 Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
 
 
-
 QIML-based intrusion / anomaly detection for PQC transitions
 
 Quantum-inspired kernel learning for malware / traffic classification
 
 QIML for adaptive PQC parameter and policy selection
-
-
-
-
-Parameter Scaling in PQC-1 and PQC-3
 
 
 
