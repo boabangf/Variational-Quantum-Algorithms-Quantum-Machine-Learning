@@ -1,37 +1,24 @@
 
 Overleaf View Mode of paper: https://www.overleaf.com/read/xgghcyzgbrbv#368c5b
 
-Chakraborty, Shantanav, Aditya Morolia, and Anurudh Peduri. "Quantum regularized least squares." Quantum 7 (2023): 988.
-
-Du, Yuxuan, et al. "A grover-search based quantum learning scheme for classification." new Journal of Physics 23.2 (2021): 023020.
-
-Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
-
-
-QIML-based intrusion / anomaly detection for PQC transitions
-
-Quantum-inspired kernel learning for malware / traffic classification
-
-QIML for adaptive PQC parameter and policy selection
-
 
 
 ABSTRACT
 
-Variational Quantum Algorithms (VQAs) represent a cornerstone of near-term quantum computing, enabling hybrid quantum–classical optimization for high-dimensional learning, chemistry, and combinatorial problems. However, their scalability is severely constrained by the barren plateau phenomenon, a regime where gradients vanish exponentially with system size, preventing effective training of deep or randomly initialized circuits. In this work, we introduce a two-stage optimization framework designed to overcome barren plateaus and improve convergence stability in quantum and quantum-inspired models. The proposed method begins with a convex initialization stage, which shapes the quantum energy manifold (Hilmaton landscape) into a smooth, low-energy basin to enhance gradient visibility and suppress noise-induced instability. Once stable gradient flow is established, the algorithm transitions to a nonconvex refinement stage that introduces structured oscillatory regularization, enabling exploration of multiple energy minima and improving model expressivity. This staged approach emulates the physical evolution of quantum systems from ordered to interference-rich states, providing a principled pathway to maintain gradient information throughout training. Numerical experiments  demonstrate that the framework mitigates gradient vanishing, enhances optimization stability, and preserves generalization performance across varying circuit depths. The results highlight a scalable route toward trainable variational quantum architectures resilient to barren plateau effects. 
-
-
-
-
+Variational Quantum Algorithms are a vital part of quantum computing. It is a blend of quantum and classical methods for tackling tough problems in machine learning, chemistry, and combinatorial optimization. Yet as these algorithms scale up, they cannot overcome the barren-plateau phenomenon. As systems grow, gradients can vanish so quickly that training deep or randomly initialized circuits becomes nearly impossible. 
+To overcome the barren plateau problem, we introduce a \textcolor{red}{two-stage optimization framework}. First comes the convex initialization stage. Here, we shape the quantum energy landscape,  the Hilmaton landscape, into a smooth, low-energy basin. This step makes gradients easier to spot and keeps noise from derailing the process. Once we have gotten a stable gradient flow, we move to the second stage: nonconvex refinement. In this phase, we  let the algorithm wander through different energy minima, making the model more expressive.  Finally, we used our  two-stage solution to perform quantum cryptanalysis of quantum key distribution protocol(i.e., BB84) to determine the optimal cloning strategies. The simulation results showed that our proposed two-stage solution outperforms its random initialization counterpart.
 
 
 
 Reference
+
 Puig, Ricard, et al. "Variational quantum simulation: a case study for understanding warm starts." PRX Quantum 6.1 (2025): 010317.
 
 Skolik, Andrea, et al. "Layerwise learning for quantum neural networks." Quantum Machine Intelligence 3.1 (2021): 5.
 
 Sellier, Jean Michel, and Alexandre Martini. "On Training Spiking Neural Networks by Means of a Novel Quantum Inspired Machine Learning Method." Applied AI Letters 6.2 (2025): e114.
+
+Coyle, Brian et al. “Variational Quantum Cloning: Improving Practicality for Quantum Cryptanalysis.” ArXiv abs/2012.11424 (2020): n. pag.
 
 Sellier JM. On a quantum inspired approach to train machine learning models. Applied AI Letters. 2023 Dec;4(4):e89.
 
