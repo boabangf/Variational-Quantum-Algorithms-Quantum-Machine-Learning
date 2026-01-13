@@ -16,31 +16,7 @@ Quantum-inspired kernel learning for malware / traffic classification
 QIML for adaptive PQC parameter and policy selection
 
 
-Under construction: https://colab.research.google.com/drive/1eAFJnlj84ypAcmPcmxo8pQa3J_GioeVI?usp=sharing
 
-DataSets
-
-load_wine
-
-Mnist
-
-OptdigitsData
-
-**Quantum Pipeline**
-
-Train PQC-3 surrogate with regularized LS (convex)
-
-Obtain stable parameter basin
-
-Promote to PQC-3 (cubic interactions)
-
-Fine-tune with full nonlinear expressivity
-
-**This avoids:**
-
-Barren plateaus (quantum)
-
-Vanishing gradients (deep learning)
 
 Parameter Scaling in PQC-1 and PQC-3
 
