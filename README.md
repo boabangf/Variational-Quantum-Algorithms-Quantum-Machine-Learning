@@ -34,10 +34,8 @@ Du, Yuxuan, et al. "Quantum machine learning: A hands-on tutorial for machine le
 
 Chen, Samuel Yen-Chi et al. “Variational Quantum Circuits for Deep Reinforcement Learning.” IEEE Access 8 (2019): 141007-141024.
 
-
-**Telecommunication Applications Reference**
-
 **pip install Qiskit**
+**pip install pennyLane**
 
 
 
